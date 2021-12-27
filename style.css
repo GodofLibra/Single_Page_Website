@@ -87,7 +87,7 @@ video {
 }
 
 .nav #brand a {
-  color: #fff;
+  color: rgb(21, 207, 240);
   font-family: Poppins !important;
   transition: all 500ms ease-out;
 }
